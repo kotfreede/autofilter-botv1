@@ -48,7 +48,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('👨‍💻Developer👨‍💻', url='https://t.me/A2Z_MOVIES01'),
-        InlineKeyboardButton('⚜️OUR DISCUSSION ⚜️', url ='https://t.me/A2ZMOVIESTAMIL')
+        InlineKeyboardButton('⚜️OUR DISCUSSION⚜️', url ='https://t.me/A2ZMOVIESTAMIL')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/a2zmovies001')
     ],[

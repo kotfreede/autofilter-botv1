@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '💢JOIN OUR CHANNEL💢', url="https://t.me/a2zmovies001"
+                                    '💢JOIN OUR CHANNEL💢', url="https://t.me/A2ZMOVIESTAMIL1"
                                 )
                         ]
                     ]
@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('👨‍💻Developer👨‍💻', url='https://t.me/A2Z_MOVIES01'),
         InlineKeyboardButton('⚜️OUR DISCUSSION⚜️', url ='https://t.me/A2ZMOVIESTAMIL')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/a2zmovies001')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/A2ZMOVIESTAMIL1')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]

@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b><u>Hey {} How are you!!</b></u>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-JOIN OUR CHANNEL AND DISCUSSION FROM THE BELOW LINK 🥰
+JOIN OUR CHANNEL AND MOVIE REQUEST GROUP FROM THE BELOW LINK 🥰
 
 For More Details Click Help Button Below..
 @A2ZMOVIESTAMIL

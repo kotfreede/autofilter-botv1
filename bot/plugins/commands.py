@@ -28,7 +28,7 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = f"{file_name}  @A2ZMOVIESTAMIL",
+                caption = f"{file_name}  💝Share And Support Us💝@A2ZMOVIESTAMIL1",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -47,12 +47,12 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('👨‍💻Developer👨‍💻', url='https://t.me/A2Z_MOVIES01'),
-        InlineKeyboardButton('💞Movie Request Group💞', url ='https://t.me/A2ZMOVIESTAMIL')
+        InlineKeyboardButton('💘Boss💘', url='https://t.me/A2Z_MOVIES01'),
+        InlineKeyboardButton('🎸Our Channel🎸', url ='https://t.me/A2ZMOVIESTAMIL1')
     ],[
-        InlineKeyboardButton('🎸Our Channel🎸', url='https://t.me/A2ZMOVIESTAMIL1')
+        InlineKeyboardButton('🔰Movie Request🔰', url='https://t.me/A2ZMOVIESTAMIL')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('👽Dont click me👽',url='https://t.me/A2ZMOVIESTAMIL1')
     ],[
        
         InlineKeyboardButton ('🤩Our All Channels Link🥰', url='https://t.me/A2ZLINKSALL') 

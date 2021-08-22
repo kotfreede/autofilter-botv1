@@ -28,11 +28,7 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = f"✶▰★▰✶▰★▰✶▰★▰✶▰★▰
-                             Join For More Movies And
-                              Series. Join➧@A2ZMOVIESTAMIL1
-                              OUR All Channels Link➧@A2ZLINKSALL
-                            ✶▰★▰✶▰★▰✶▰★▰✶▰★▰",
+                caption = f"🔴Join➡@A2ZMOVIESTAMIL1.♨️Powered By➡@A2ZMOVIESTAMIL",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [

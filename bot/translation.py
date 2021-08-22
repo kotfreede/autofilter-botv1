@@ -5,11 +5,11 @@
 class Translation(object):
     
     START_TEXT = """<b><u>Hey {} How are you!!</b></u>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>Am Just A Movie Sender Bot Only For @A2ZMOVIESTAMIL1....😉
 
 JOIN OUR CHANNEL AND MOVIE REQUEST GROUP FROM THE BELOW LINK 🥰
 
-For More Details Click Help Button Below..
+
 @A2ZMOVIESTAMIL
 </i>"""    
     

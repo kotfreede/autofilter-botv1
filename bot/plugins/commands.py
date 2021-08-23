@@ -28,14 +28,14 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = f"🔴Join➡@A2ZMOVIESTAMIL1.♨️Powered By➡@A2ZMOVIESTAMIL",
+                caption = f"🔴Join👉@STARZONE_MOVIESZ.♨️Powered By👉@STARZONE_MOVIEREQUEST",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    '🎸JOIN OUR CHANNEL🎸', url="https://t.me/A2ZMOVIESTAMIL1"
+                                    '🎸JOIN OUR CHANNEL🎸', url="https://t.me/STARZONE_MOVIESZ"
                                 )
                         ]
                     ]
@@ -47,15 +47,15 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('💘Boss💘', url='https://t.me/A2Z_MOVIES01'),
-        InlineKeyboardButton('🎸Our Channel🎸', url ='https://t.me/A2ZMOVIESTAMIL1')
+        InlineKeyboardButton('💘Boss💘', url='https://t.me/STARZONE_MOVIES01'),
+        InlineKeyboardButton('🎸Our Channel🎸', url ='https://t.me/STARZONE_MOVIESZ')
     ],[
-        InlineKeyboardButton('🔰Movie Request🔰', url='https://t.me/A2ZMOVIESTAMIL')
+        InlineKeyboardButton('🔰Movie Request🔰', url='https://t.me/STARZONE_MOVIEREQUEST')
     ],[
-        InlineKeyboardButton('👽Dont click me👽',url='https://t.me/A2ZMOVIESTAMIL1')
+        InlineKeyboardButton('👽Dont click me👽',url='https://t.me/STARZONE_MOVIESZ')
     ],[
        
-        InlineKeyboardButton ('🤩Our All Channels Link🥰', url='https://t.me/A2ZLINKSALL') 
+        InlineKeyboardButton ('🤩Our All Channels Link🥰', url='https://t.me/STARZONE_LINKSALL') 
 
     ]]
     

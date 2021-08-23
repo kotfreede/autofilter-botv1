@@ -52,7 +52,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('🔰Movie Request🔰', url='https://t.me/STARZONE_MOVIEREQUEST')
     ],[
-        InlineKeyboardButton('👽Dont click me👽',url='https://t.me/STARZONE_MOVIESZ')
+        InlineKeyboardButton('How To Download Movies From me🤗',url='https://t.me/STARZONE_MOVIEREQUEST/11176')
     ],[
        
         InlineKeyboardButton ('🤩Our All Channels Link🥰', url='https://t.me/STARZONE_LINKSALL') 

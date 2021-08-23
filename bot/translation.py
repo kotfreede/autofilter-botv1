@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b><u>Hey {} How are you!!</b></u>
-<i>Am Just A Movie Sender Bot Only For @A2ZMOVIESTAMIL1....😉
+<i>Am Just A Movie Sender Bot Only For @STARZONE_MOVIESZ....😉
 
 JOIN OUR CHANNEL AND MOVIE REQUEST GROUP FROM THE BELOW LINK 🥰
 
 
-@A2ZMOVIESTAMIL
+@STARZONE_MOVIEREQUEST
 </i>"""    
     
     HELP_TEXT = """

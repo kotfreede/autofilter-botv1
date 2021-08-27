@@ -28,7 +28,7 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = f"🔴Join👉@STARZONE_MOVIESZ.♨️Powered By👉@STARZONE_MOVIEREQUEST",
+                caption = f"🔴Join👉@STARZONE_MOVIESZ. ⭐ ♨️Powered By👉@STARZONE_MOVIEREQUEST",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [

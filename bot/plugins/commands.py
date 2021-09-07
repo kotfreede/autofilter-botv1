@@ -36,7 +36,6 @@ async def start(bot, update):
                             InlineKeyboardButton
                                 (
                                     '🎸JOIN OUR CHANNEL🎸', url="https://t.me/STARZONE_MOVIESZ"
-                                    '📺SERIES CHANNEL📺', url="https://t.me/STARZONE_SERIES"
                                 )
                         ]
                     ]

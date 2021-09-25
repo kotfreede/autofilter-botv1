@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('♨️𝐛ᴏss♨️', url='https://t.me/HD_HARI46'),
+        InlineKeyboardButton('♨️𝙱𝚘𝚜𝚜♨️', url='https://t.me/HD_HARI46'),
         InlineKeyboardButton('🎸𝙾𝚞𝚛 𝙲𝚑𝚊𝚗𝚗𝚎𝚕🎸', url ='https://t.me/STARZONE_MOVIESZ')
     ],[
         InlineKeyboardButton('🔰𝙼𝚘𝚟𝚒𝚎 𝚁𝚎𝚚𝚞𝚎𝚜𝚝🔰', url='https://t.me/STARZONE_MOVIEREQUEST')

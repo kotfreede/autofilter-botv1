@@ -89,8 +89,8 @@ async def cb_navg(bot, update: CallbackQuery):
 
     else:
         temp_results.append([
-            InlineKeyboardButton("⏪ 𝐏𝐫𝐞𝐯𝐢𝐨𝐮𝐬", callback_data=f"navigate({index_val}|back|{query})"),
-            InlineKeyboardButton("𝐍𝐞𝐱𝐭 𝐏𝐚𝐠𝐞⏩", callback_data=f"navigate({index_val}|next|{query})")
+            InlineKeyboardButton("⏪ Ᏼᴀᴄᴋ", callback_data=f"navigate({index_val}|back|{query})"),
+            InlineKeyboardButton("Ｎᴇxᴛ⏩", callback_data=f"navigate({index_val}|next|{query})")
         ])
 
     if not int(index_val) == 0:    
@@ -142,7 +142,7 @@ async def cb_navg(bot, update: CallbackQuery):
     
     reply_markup = InlineKeyboardMarkup(temp_results)
     
-    text=f"<i>♻️Ꭻᴏɪɴ :@STARZONE_MOVIESZ♻️   🗂Ꮇᴏᴠɪᴇ Ｎᴀᴍᴇ :</i> <code>{query}</code>"
+    text=f"<i>♻️ Ꭻᴏɪɴ : @STARZONE_MOVIESZ ♻️      🗂️ Ꮇᴏᴠɪᴇ Ｎᴀᴍᴇ :</i> <code>{query}</code>"
        
     try:
         await update.message.edit(

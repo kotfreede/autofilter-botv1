@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '♻️ Ꭻᴏɪɴ Νᴏᴡ ♻️', url="https://t.me/Star_LinkzZ"
+                                    '♻️ Ꭻᴏɪɴ Νᴏᴡ ♻️', url="https://t.me/STARZONE_MOVIESZ"
                                 )
                         ]
                     ]

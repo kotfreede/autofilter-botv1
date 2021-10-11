@@ -28,14 +28,14 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = f"<code>{file_name}</code> <br> \n \n🔰Ꮲᴏᴡᴇʀᴇᴅ Ᏼʏ🔰 @KOT_LINKS_TEAM", 
+                caption = f"<code>{file_name}</code> <br> \n \n🔰Ꮲᴏᴡᴇʀᴇᴅ Ᏼʏ🔰 @KING_OF_THE_CARTOONS_CHANNEL", 
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    '♻️ Ꭻᴏɪɴ Νᴏᴡ ♻️', url="https://t.me/KOT_LINKS_TEAM"
+                                    '♻️ Ꭻᴏɪɴ Νᴏᴡ ♻️', url="https://t.me/KING_OF_THE_CARTOONS_CHANNEL"
                                 )
                         ]
                     ]

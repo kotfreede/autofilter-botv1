@@ -28,7 +28,7 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = f"<code>{file_name}</code> <br> \n \n🔰Ꮲᴏᴡᴇʀᴇᴅ Ᏼʏ🔰 @KING_OF_THE_CARTOONS_CHANNEL", 
+                caption = f"<code>{file_name}</code> <br> \n \n🔰Ꮲᴏᴡᴇʀᴇᴅ Ᏼʏ🔰 @KOT_BOTS", 
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
@@ -52,7 +52,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('🔰𝙼𝚘𝚟𝚒𝚎 𝚁𝚎𝚚𝚞𝚎𝚜𝚝🔰', url='https://t.me/KOT_MOVIES_DISSECTION')
     ],[
-        InlineKeyboardButton('♻️ ᴏᴜʀ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ♻️',url='https://t.me/KOT_WEB_SERIES_CHANNEL')
+        InlineKeyboardButton('♻️ANY PROBLEM♻️',url='https://t.me/KOT_REPORS')
     ],[
        
         InlineKeyboardButton ('𝙼𝚞𝚜𝚝 Join🧐', url='https://t.me/KING_OF_THE_CARTOONS_CHANNEL') 

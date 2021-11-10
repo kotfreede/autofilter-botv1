@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '♻️ Ꭻᴏɪɴ Νᴏᴡ ♻️', url="https://t.me/KING_OF_THE_CARTOONS_CHANNEL"
+                                    '♻️ Ꭻᴏɪɴ Νᴏᴡ ♻️', url="https://t.me/kc_dio"
                                 )
                         ]
                     ]
@@ -50,12 +50,12 @@ async def start(bot, update):
         InlineKeyboardButton('♨️𝙱𝚘𝚜𝚜♨️', url='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'),
         InlineKeyboardButton('🎸𝙾𝚞𝚛 𝙲𝚑𝚊𝚗𝚗𝚎𝚕🎸', url ='https://t.me/KOT_BOTS')
     ],[
-        InlineKeyboardButton('🔰𝙼𝚘𝚟𝚒𝚎 𝚁𝚎𝚚𝚞𝚎𝚜𝚝🔰', url='https://t.me/KOT_MOVIES_DISSECTION')
+        InlineKeyboardButton('🔰𝙼𝚘𝚟𝚒𝚎 𝚁𝚎𝚚𝚞𝚎𝚜𝚝🔰', url='https://t.me/kc_dio_chatbox')
     ],[
-        InlineKeyboardButton('♻️ANY PROBLEM♻️',url='https://t.me/KOT_REPORS')
+        InlineKeyboardButton('♻️ANY PROBLEM♻️',url='https://t.me/KOT_FREE_DE_LA_HOYA_OFF')
     ],[
        
-        InlineKeyboardButton ('𝙼𝚞𝚜𝚝 Join🧐', url='https://t.me/KING_OF_THE_CARTOONS_CHANNEL') 
+        InlineKeyboardButton ('𝙼𝚞𝚜𝚝 Join🧐', url='https://t.me/KOT_BOTS') 
 
     ]]
     

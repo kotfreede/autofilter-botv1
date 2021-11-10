@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b><u>Hey {} How are you!!</b></u>
-<i>Am Just A Movie Sender Bot Only For @KOT_LINKS_TEAM....😉
+<i>Am Just A Movie Sender Bot Only For @KOT_BOTS....😉
 
 JOIN OUR CHANNEL AND MOVIE REQUEST GROUP FROM THE BELOW LINK 🥰
 
 
-@KOT_MOVIES_DISSECTION
+@kc_dio_chatbox
 </i>"""    
     
     HELP_TEXT = """
@@ -47,11 +47,11 @@ JOIN OUR CHANNEL AND MOVIE REQUEST GROUP FROM THE BELOW LINK 🥰
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/A2Z_MOVIES01">A2Z_MOVIES01</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/KOT_FREE_DE_LA_HOYA_OFF">KOT DEVELOPER</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/kotfreede/autofilter-botv1">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://t.me/KOT_SOURCE_CODE">Click Me</a></i>
 """
